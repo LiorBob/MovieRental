@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="movies">
+        <xs:complexType>
+            <xs:sequence >
+                <xs:element name="movie" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="length" type="xs:int"/>
+                            <xs:element name="year" type="xs:int"/>
+                            <xs:element name="synopsis" type="xs:string"/>
+                            <xs:element name="director" type="xs:string" maxOccurs="10"/>
+                            <xs:element name="actor" type="xs:string" maxOccurs="20"/>
+                            <xs:element name="genre" type="xs:string" maxOccurs="10"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

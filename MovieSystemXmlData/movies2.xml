@@ -1,0 +1,193 @@
+<movies>
+    <movie>
+        <title>No Country for Old Men</title>
+        <length>122 </length>
+        <year> 2007</year>
+	  <synopsis>
+            Over wide shots of desolate, expansive West Texas country in June 1980, local sheriff Ed Tom Bell (Tommy Lee Jones) narrates his belief that the times are changing and that the area is becoming increasingly violent. As Bell's narration concludes, the film's antagonist, Anton Chigurh (Javier Bardem), is arrested and taken into custody by a sheriff's deputy. The deputy scarcely has time to describe Chigurh's unique weapon, a captive bolt pistol, to authorities before Chigurh wraps his handcuffs around the deputy's neck -- strangling him to death, and allowing Chigurh to escape.                 
+            Miles away, Llewelyn Moss (Josh Brolin) hunts pronghorn antelope near the Rio Grande when he stumbles upon a group of corpses and a lone dying man: the aftermath of a drug deal gone awry. In addition to a shipment of heroin, Moss finds two million dollars in a satchel, which he keeps, leaving the lone survivor to die. Later that night in bed with his wife Carla Jean (Kelly Macdonald), Moss's conscience pushes him to return to the scene with water for the dying man, which shortly triggers a cat-and-mouse game between a gang of Mexicans, Moss, Chigurh, and Bell as they chase the money and each other across the West Texas and Mexico landscapes.                    
+            Chigurh, a professional hitman hired to retrieve the stolen money, tracks the satchel with a radio receiver corresponding to a small transponder hidden in the satchel. A meticulous, brooding psychopath, Chigurh does not hesitate to kill anyone impeding his mission; his victims range from Mexican gangsters and law enforcement officials to civilians he encounters by chance. Moss, unaware of the transponder's existence, sends his wife Carla Jean out of town while he darts from motel to motel in an attempt to elude both Chigurh and the Mexicans sent to retrieve the money. In the meantime, Bell focuses his efforts on locating and protecting Moss, following the trail of corpses left by Chigurh, while he tracks Moss and the money.                                       
+        </synopsis>
+        
+        <director>Joel Coen</director>
+        <director>Ethan Coen</director>
+        
+        <actor>Tommy Lee Jones</actor>
+        <actor>Josh Brolin</actor>
+        <actor>Javier Bardem</actor>
+        <actor>Kelly Macdonald</actor>
+        <actor>Woody Harrelson</actor>
+        
+        
+        
+        
+        <genre>drama</genre>
+        
+    </movie>
+    
+    
+    <movie>
+        <title>The Departed</title>
+        <length>151</length>
+        <year>2006</year>
+        <synopsis>
+            The film begins in South Boston and Charlestown, featuring a montage of riot footage with voice-over narration by Irish mob boss Francis "Frank" Costello (Nicholson), who expresses his belief that "a man makes his own way" in the world, and that "no one gives it to you... you have to take it." He is able to beguile a young neighborhood boy named Colin Sullivan (Conor Donovan), who enters into Costello's criminal underground at a young age.
+            Years later, Colin Sullivan (now played by Damon) is finishing his training for the Massachusetts State Police, as is William "Billy" Costigan, Jr. (DiCaprio); both eventually graduate to become state troopers. Sullivan, who quickly distinguishes himself, is assigned to the Special Investigations Unit ("SIU") of the State Police by SIU's Captain Queenan (Sheen) and Staff Sergeant Dignam (Wahlberg). Queenan and Dignam also interview Costigan, but are convinced that Costigan's family ties with the Boston underworld make Costigan unsuitable for anything other than undercover work. Costigan agrees to work for Queenan and Dignam's undercover division of SIU and become a mole in Costello's crime family. To make his new identity believable, SIU creates a false assault conviction for Costigan, who serves a jail sentence to comply with the sham conviction. The "conviction" also requires Costigan to be placed on probation upon release, and to attend mandatory psychiatry sessions with staff psychiatrist Dr. Madolyn Madden (Farmiga), who will later become Costigan's love interest. Costigan's police academy record and file are concealed from the department, leaving only Queenan and Dignam with any knowledge of his true identity.
+            Sullivan is assigned to the organized-crime division of SIU, an "elite unit" headed by Captain Ellerby (Baldwin). The unit's only target is Costello, whom the unit attempts to apprehend in cooperation with the FBI. Although Dignam agrees to assist Ellerby's unit, he refuses to reveal any information about undercover informants to the organized-crime division of SIU. Costigan, in the meantime, infiltrates Costello's crew using his family connections and a "nothing to lose" character he fashions for himself while in Costello's presence (Costigan beats up two of Costello's rival "ginuea" gang-members, as well as one of Costello's own underlings). Although suspicious of Costigan's motives, Costello adopts Costigan into his crime-family after Costigan withstands a physically torturous inquisition into his police background by Costello.
+        </synopsis>
+        
+        <director>Martin Scorsese</director>
+        
+        <actor>Leonardo DiCaprio</actor>
+        <actor>Matt Damon</actor>
+        <actor>Jack Nicholson</actor>
+        <actor>Mark Wahlberg</actor>
+        <actor>Martin Sheen</actor>
+        
+        
+        <genre>drama</genre>
+        <genre>thriller</genre>
+    </movie>
+    
+    
+    <movie>
+        <title>Crash</title>
+        <length>113</length>
+        <year>2004</year>
+        <synopsis>
+            The film depicts several characters living in Los Angeles during a 36-hour period and brings them together through car accidents, shootings, and carjackings. Most of the characters depicted in the film are racially prejudiced in some way and become involved in conflicts which force them to examine their own prejudices. Through these characters' interactions, the film seeks to depict and examine not only racial tension, but also the distance between strangers in general.
+        </synopsis>
+        
+        <director>Paul Haggis</director>
+        
+        <actor>Matt Dillon</actor>
+        <actor>Ryan Phillippe</actor>
+        <actor>Sandra Bullock</actor>
+        <actor>Don Cheadle</actor>
+        <actor>William Fichtner</actor>
+        <actor>Brendan Fraser</actor>
+
+        <genre>drama</genre>
+    </movie>
+    
+    
+    <movie>
+        <title>Million Dollar Baby</title>
+        <length>132</length>
+        <year>2004</year>
+        <synopsis>
+         Maggie Fitzgerald (Hilary Swank), a female amateur who aspires to prove her worth by becoming a successful boxer, is taken in by Frank Dunn (Clint Eastwood), a down-and-out boxing trainer who has been cast aside by most of society, including his estranged daughter Katie. Dunn aids Maggie in realizing her goal while developing a stronger-than-blood bond. Initially, Dunn is dispassionate toward Maggie because she is a 31-year-old female. Maggie, however, perseveres in her attempts to gain Dunn's favor by training each day in his gym, even when others discourage her. Frank's friend and employee, ex-boxer Eddie "Scrap Iron" Dupris (Morgan Freeman) narrates the story in non-dialogue scenes.
+         Dunn has an estranged relationship with his daughter and writes to her every week with no reply. Dunn's priest cannot conceive of why his daughter wouldn't respond and instead shows disbelief in Dunn's claims that he is writing letters to her. Dunn, having experienced no intimate relationship with his own daughter, forms a stronger bond with Maggie, whose family does not care for her well-being despite her best efforts to provide a life for them, and decidedly coaches and manages her professional career. With his expertise, Maggie fights her way up to the women's welterweight boxing division, eventually placing a match in Las Vegas against the WBA women's welterweight champion (played by real life boxer Lucia Rijker), who is known for her foul play. During the match, an illegal attack after the bell by her opponent sends Maggie down toward the mat, directly in the path of her corner stool. Dunn frantically tries to move it out of the way, but cannot reach it in time. As a result, Maggie hits it with bone-shattering force and is paralyzed from the neck down. Dunn, venting his rage at the unjust circumstance, initially blames Dupris for convincing him to bring her in but in the end blames himself for her downfall having trained her against his better judgment.   
+        </synopsis>
+        
+        <director>Clint Eastwood</director>
+        
+        <actor>Clint Eastwood</actor>
+        <actor>Hilary Swank</actor>
+        <actor>Morgan Freeman</actor>
+      
+        <genre>drama</genre>
+    </movie>
+    
+    
+    <movie>
+        <title>The Lord of the Rings: The Return of the King</title>
+        <length>200</length>
+        <year>2003</year>
+        <synopsis>
+        The film begins with a flashback of how Sméagol acquired the One Ring, before forwarding to him as Gollum taking Frodo and Sam to Minas Morgul. Aragorn, Legolas, Gimli, Gandalf, Théoden and Éomer meet up with Merry, Pippin and Treebeard at Isengard, now under the Ents' control. They also recover the palantír. Pippin's curiosity gets the better of him at Edoras, and he looks into it: making Gandalf realize Sauron is planning to attack Minas Tirith, and he rides off there with Pippin. In Rivendell, Arwen has a vision of her son and convinces Elrond to reforge the sword, Narsil, that cut the Ring from Sauron's finger long ago.
+        Gandalf and Pippin arrive at Minas Tirith to find the steward Denethor mourning over Boromir, and Pippin swears loyalty to him. Meanwhile, the Witch-king dispatches his immense orc army, heralding the start of the war. Frodo, Sam, and Gollum begin climbing the stairs nearby. The Morgul army drives the Gondorians out of Osgiliath, and Faramir is forced to take a doomed ride to reclaim the city. Near Minas Morgul, Gollum convinces Frodo to send Sam home on the belief he wants the Ring. At the urging of Gandalf, Pippin lights the first of the beacon signals to Edoras, alerting Théoden and the rest of the Rohirrim and prompting them to ride to Dunharrow to prepare for war. While preparing for battle in Dunharrow, Aragorn meets Elrond, who presents the future King with the newly reforged sword, Andúril. Aragorn then sets off with Legolas and Gimli to brave the Paths of the Dead, to enlist the help of the cursed Army of Dead, and capture the ships of the Corsairs of Umbar. Théoden rides off to war with six thousand Riders, unaware Éowyn and Merry are part of the army too.   
+        </synopsis>
+        
+        <director>Peter Jackson</director>
+        
+        <actor>Elijah Wood</actor>
+        <actor>Sean Astin</actor>
+        <actor>Viggo Mortensen</actor>
+        <actor>Ian McKellen</actor>
+        <actor>Andy Serkis</actor>
+          
+        <genre>drama</genre>
+
+    </movie>
+    
+    
+    <movie>
+        <title></title>
+        <length></length>
+        <year></year>
+        <synopsis>
+            
+        </synopsis>
+        
+        <director></director>
+        
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        
+        
+        <genre></genre>
+        <genre></genre>
+        <genre></genre>
+    </movie>
+    
+    
+    <movie>
+        <title></title>
+        <length></length>
+        <year></year>
+        <synopsis>
+            
+        </synopsis>
+        
+        <director></director>
+        
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        
+        
+        <genre></genre>
+        <genre></genre>
+        <genre></genre>
+    </movie>
+    
+    
+    <movie>
+        <title></title>
+        <length></length>
+        <year></year>
+        <synopsis>
+            
+        </synopsis>
+        
+        <director></director>
+        
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        <actor></actor>
+        
+        
+        <genre></genre>
+        <genre></genre>
+        <genre></genre>
+    </movie>
+    
+    
+    
+    
+    
+</movies>  
+
+
+
